@@ -1,0 +1,10 @@
+C:\Users\Amantha\source\repos\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\Amantha\source\repos\Calculate\bin\Debug\Calculate.exe
+C:\Users\Amantha\source\repos\Calculate\bin\Debug\Calculate.pdb
+C:\Users\Amantha\source\repos\Calculate\obj\Debug\Calculate.csprojAssemblyReference.cache
+C:\Users\Amantha\source\repos\Calculate\obj\Debug\Calculate.Calculator.resources
+C:\Users\Amantha\source\repos\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+C:\Users\Amantha\source\repos\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+C:\Users\Amantha\source\repos\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\Amantha\source\repos\Calculate\obj\Debug\Calculate.exe
+C:\Users\Amantha\source\repos\Calculate\obj\Debug\Calculate.pdb
